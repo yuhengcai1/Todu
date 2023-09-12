@@ -66,6 +66,7 @@ class FunViewModel: ObservableObject {
         Havefun(Fun: "Yuheng"),
         Havefun(Fun: "Cai"),
         Havefun(Fun: "Apple")
+        Havefun(Fun: "Stella")
     ]
   }
 
